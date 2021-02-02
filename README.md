@@ -12,6 +12,6 @@
 - [Chrome Dev Tools](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/9-chrome-dev-tools.md)
 - [Form Practice](https://github.com/napatwongchr/intro-to-html/blob/main/lessons/10-form-practice.md)
 
-## Introduction to HTML
+## HTML Exercises
 
 - [HTML Exercises](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
