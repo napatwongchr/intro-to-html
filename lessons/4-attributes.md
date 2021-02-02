@@ -56,3 +56,10 @@ Input tags ต่าง ๆ ที่เรียนไป จะมี **type**
   <h1>ส่วนของ Promotion บนหน้าเว็บ</h1>
 </div>
 ```
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/3-getting-into-html.md"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/5-how-to-name-things.md">หน้าต่อไป >></a>
+</div>

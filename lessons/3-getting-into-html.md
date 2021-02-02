@@ -140,3 +140,10 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
   </tr>
 </table>
 ```
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/1-web-development-pillars.md"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/4-attributes.md">หน้าต่อไป >></a>
+</div>

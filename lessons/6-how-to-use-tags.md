@@ -12,3 +12,10 @@
 เคสนี้เราสามารถลองเล่นผ่าน Google Chome Extension ที่ชื่อว่า [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
 🌟 **Accessibility** การที่เราทำ Web Application โดยคำนึงถึงกลุ่มคนที่มีความพิการในด้านต่าง ๆ
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/5-how-to-name-things.md"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/7-meta-tags-and-xhtml.md">หน้าต่อไป >></a>
+</div>

@@ -7,3 +7,10 @@ Hi, My name is Napat, Knot. I am Senior Full stack developer. I have been workin
 <br><hr><br>
 
 ## Welcome to Introduction to HTML
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="#"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/1-web-development-pillars.md">หน้าต่อไป >></a>
+</div>

@@ -17,3 +17,10 @@ Request ตือ การติดต่อ Server เพื่อที่จ
 Server จะดึงข้อมูลที่อยู่ใน Database แล้วส่งกลับไปเป็น Response ให้ Frontend นำไปแสดงผล
 
 เช่น ขอรายการสินค้า Flash Sale ตัว Server จะมีช่องทางการติดต่อกับ Frontend ช่องทางนี้แหล่ะ เราเรียกว่า API
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/2-simple-web-architecture.md"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/3-getting-into-html.md">หน้าต่อไป >></a>
+</div>

@@ -36,6 +36,15 @@
 </div>
 ```
 
+<br><hr><br>
+
 ## Exercises 🏅
 
 ลองเปิดหน้าเว็บมาสัก 1 เว็บแล้วลองตั้งชื่อให้ส่วนต่าง ๆ และ Elements ต่าง ๆ ที่อยู่บนหน้าเว็บ
+
+<br><hr><br>
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/4-attributes.md"><< ไปก่อนหน้า</a>
+  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/6-how-to-use-tags.md">หน้าต่อไป >></a>
+</div>
