@@ -147,6 +147,8 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
+**Figma:**  
+
 **Note** 
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
@@ -158,6 +160,8 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 ## Take Home Exercises
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
+
+**Figma:** 
 
 **Note** 
 
