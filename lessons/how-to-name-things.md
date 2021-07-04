@@ -1,6 +1,6 @@
 # How To Name Things
 
-การตั้งชื่อ class หรือ id เราควรนึกถึงความหมายที่แท้จริงของสิ่ง ๆ นั้น ว่ามันคืออะไรกันแน่ บนโลกความเป็นจริง ไม่ควรตั้งอะไรก็ได้ หรือย่อ หรือคำศัพท์ที่ยากไม่เหมาะสมกับสิ่งนั้น ๆ
+การตั้งชื่อให้กับสิ่งต่าง ๆ เวลาเขียนโปรแกรม เราควรนึกถึงความหมายที่แท้จริงของสิ่ง ๆ นั้น ว่ามันคืออะไรกันแน่ บนโลกความเป็นจริง ไม่ควรตั้งอะไรก็ได้ หรือย่อ หรือใช้คำศัพท์ที่ยาก หรือผิดความหมาย เช่นเดียวกันกับการตั้งชื่อ Class หรือ Id
 
 ### ตัวอย่าง
 
@@ -8,14 +8,20 @@
 
 ```html
 <div class="post">
-  <div class="post-title">Post: Coding is easy 😻</div>
+  <div class="post-title">Post: Coding is fun 😻</div>
   <div class="post-content">
-    ที่เธอยิ่งไกลห่างไปสู่ดินแดนแสนวิเศษกายและคว้าให้ลืม
-    ยังอยู่ตรงนี้และหวังดีที่สุดก็เต้นไปในความฝันให้เธอ
-    จังหวะเพลงปลุกเร้าชีวิตข้างหน้าอยู่ในใจ
-    จะลองไขว่และอยู่ในใจแล้วสิเออลิ้นเราต้องแก้ไข
-    ก็เพื่อต้องสายแน่เลยไปอย่างนั้น
-    ถ้าหัวใจบอกในใจให้เธอเสนอก็เร็วไปเลยทำอะไรกัน สู่ความสุขและดูเซ็กซี่ไม่ช้า
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet elit
+    dolor, vel consequat arcu convallis vitae. Class aptent taciti sociosqu ad
+    litora torquent per conubia nostra, per inceptos himenaeos. Class aptent
+    taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+    himenaeos. Donec in nisl finibus, eleifend felis a, volutpat lorem.
+    Suspendisse ullamcorper nisi vel dui faucibus luctus. Quisque ligula turpis,
+    imperdiet eu porta eu, bibendum viverra est. Curabitur posuere lectus at
+    ultricies ultrices. Nullam egestas leo sapien, eu bibendum magna viverra a.
+    Curabitur et efficitur ex. Proin tempor id mi sit amet commodo. Aliquam erat
+    volutpat. Nullam fringilla gravida dui, at bibendum sapien mattis eu. Nullam
+    sit amet mauris et ante semper fermentum. Donec bibendum accumsan odio, id
+    viverra tortor.
   </div>
 </div>
 ```
@@ -24,27 +30,38 @@
 
 ```html
 <div class="p">
-  <div class="p-t">Post: Coding is easy 😻</div>
+  <div class="p-t">Post: Coding is fun 😻</div>
   <div class="pc">
-    ที่เธอยิ่งไกลห่างไปสู่ดินแดนแสนวิเศษกายและคว้าให้ลืม
-    ยังอยู่ตรงนี้และหวังดีที่สุดก็เต้นไปในความฝันให้เธอ
-    จังหวะเพลงปลุกเร้าชีวิตข้างหน้าอยู่ในใจ
-    จะลองไขว่และอยู่ในใจแล้วสิเออลิ้นเราต้องแก้ไข
-    ก็เพื่อต้องสายแน่เลยไปอย่างนั้น
-    ถ้าหัวใจบอกในใจให้เธอเสนอก็เร็วไปเลยทำอะไรกัน สู่ความสุขและดูเซ็กซี่ไม่ช้า
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet elit
+    dolor, vel consequat arcu convallis vitae. Class aptent taciti sociosqu ad
+    litora torquent per conubia nostra, per inceptos himenaeos. Class aptent
+    taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+    himenaeos. Donec in nisl finibus, eleifend felis a, volutpat lorem.
+    Suspendisse ullamcorper nisi vel dui faucibus luctus. Quisque ligula turpis,
+    imperdiet eu porta eu, bibendum viverra est. Curabitur posuere lectus at
+    ultricies ultrices. Nullam egestas leo sapien, eu bibendum magna viverra a.
+    Curabitur et efficitur ex. Proin tempor id mi sit amet commodo. Aliquam erat
+    volutpat. Nullam fringilla gravida dui, at bibendum sapien mattis eu. Nullam
+    sit amet mauris et ante semper fermentum. Donec bibendum accumsan odio, id
+    viverra tortor.
   </div>
 </div>
 ```
 
-<br><hr><br>
+<hr>
 
-## Exercises 🏅
+## In Class Exercises
 
-ลองเปิดหน้าเว็บมาสัก 1 เว็บแล้วลองตั้งชื่อให้ส่วนต่าง ๆ และ Elements ต่าง ๆ ที่อยู่บนหน้าเว็บ
+ให้เปิด [Shopee](https://shopee.co.th/) ขึ้นมาแล้วให้ลองเรียกชื่อสิ่งต่าง ๆ ที่เห็น บน Web
 
-<br><hr><br>
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/4-attributes.md"><< ไปก่อนหน้า</a>
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/6-how-to-use-tags.md">หน้าต่อไป >></a>
-</div>
+<hr>
+
+## Take Home Exercises
+
+ให้เปิด [Twitter](https://twitter.com) ขึ้นมาแล้วให้ลองเรียกชื่อสิ่งต่าง ๆ ที่เห็น บน Web
+
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+
+<hr>
