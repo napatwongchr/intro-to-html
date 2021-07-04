@@ -18,7 +18,7 @@ Server จะดึงข้อมูลที่อยู่ใน Database แ
 
 เช่น ขอรายการสินค้า Flash Sale ตัว Server จะมีช่องทางการติดต่อกับ Frontend ช่องทางนี้แหล่ะ เราเรียกว่า API
 
-<br><hr><br>
+<br><br>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/2-simple-web-architecture.md"><< ไปก่อนหน้า</a>

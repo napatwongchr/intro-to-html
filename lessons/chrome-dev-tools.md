@@ -2,9 +2,9 @@
 
 Chrome Dev Tools คือ คือเครื่องมือสำหรับ Web Developer ที่อยู่บน Google Chrome Browser
 
-Chrome Dev Tools ช่วยในการแก้ไข Web Pages และตรวจสอบปัญหาการทำงานเกี่ยวกับ Web ได้ทำให้เราสร้าง Web ได้อย่างมีประสิทธิภาพ
+Chrome Dev Tools ช่วยในการแก้ไข Web Pages และตรวจสอบปัญหาการทำงานเกี่ยวกับ Web
 
-### ตัวอย่าง Features
+**Features**
 
 - [View and Change the DOM](https://developers.google.com/web/tools/chrome-devtools/dom)
 - View and Change a Page's Styles (CSS)
@@ -31,9 +31,10 @@ Reference: [Developers Google](https://developers.google.com/web/tools/chrome-de
 
 ![Highlight Elements](./images/chrome-dev-tools-3.png)
 
-<br><hr><br>
+## In Class Exercises 🏅
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/8-html-5.md"><< ไปก่อนหน้า</a>
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/10-form-practice.md">หน้าต่อไป >></a>
-</div>
+ให้เปิด Web Shopee แล้วลองใช้ Chrome Dev Tools ในการดูรายละเอียด Elements นั้น ๆ และลองแก้ไขเบื้องต้น
+
+## Take Home Exercises 🏅
+
+ให้เปิด Web Twitter แล้วลองใช้ Chrome Dev Tools ในการดูรายละเอียด Elements นั้น ๆ และลองแก้ไขเบื้องต้น

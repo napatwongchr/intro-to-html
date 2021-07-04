@@ -11,9 +11,7 @@
 
 เคสนี้เราสามารถลองเล่นผ่าน Google Chome Extension ที่ชื่อว่า [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
-<br><hr><br>
-
-## Accessibility
+## Accessibility 📖
 
 🌟 **Accessibility** การที่เราทำ Web Application โดยคำนึงถึงกลุ่มคนที่มีความพิการในด้านต่าง ๆ
 
@@ -43,9 +41,82 @@
 
 [Reference](https://www.boia.org/blog/how-to-create-accessible-content-and-designs-for-people-with-dyslexia)
 
-<br><hr><br>
+## In Class Exercises 🏅
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/5-how-to-name-things.md"><< ไปก่อนหน้า</a>
-  <a href="https://github.com/napatwongchr/intro-to-html/blob/main/lessons/7-meta-tags-and-xhtml.md">หน้าต่อไป >></a>
+ให้ Refactor Code HTML ออกมาโดยใช้ Tags ได้อย่างเหมาะสม
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ABC Company</title>
+  </head>
+  <body>
+    <div class="header-section">
+      <div class="logo">
+        <img src="https://via.placeholder.com/150" />
+        <div>ABC Company</div>
+      </div>
+      <div class="navigation-bar">
+        <ul class="menu">
+          <li class="menu-item">Home</li>
+          <li class="menu-item">About Us</li>
+          <li class="menu-item">SignUp</li>
+          <li class="menu-item">SignIn</li>
+        </ul>
+      </div>
+    </div>
+    <div class="promotion-section">
+      <div class="promotion-item">
+        <span class="promotion-title">Buy 2 Get 3 Free !!</span>
+        <div class="promotion-content">
+          Etiam ut massa a lorem aliquam porttitor non eu erat. Praesent finibus
+          laoreet pellentesque. Fusce eu erat odio. Nulla quis ligula ut mauris
+          molestie interdum. Suspendisse dolor sem, hendrerit et mi ut, mattis
+          placerat tortor.
+        </div>
+        <span class="promotion-time">08:00:00 Hours Left !</span>
+      </div>
+    </div>
+    <div class="footer-section">© 2021 ABC</div>
+  </body>
+</html>
+```
+
+**Note**
+
+- ทำให้ Code มีความ Semantics ให้มากขึ้นกว่าเดิม
+
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+
+## Take Home Exercises 🏅
+
+ให้ Refactor Code HTML ออกมาโดยใช้ Tags ได้อย่างเหมาะสม
+
+```html
+<div class="article">
+  <span class="article-title">Some article title</span>
+  <div class="article-content">
+    Etiam ut massa a lorem aliquam porttitor non eu erat. Praesent finibus
+    laoreet pellentesque. Fusce eu erat odio. Nulla quis ligula ut mauris
+    molestie interdum. Suspendisse dolor sem, hendrerit et mi ut, mattis
+    placerat tortor. In pulvinar sollicitudin justo consequat rhoncus. Aliquam
+    sit amet mauris turpis. Etiam ornare neque metus, sed mattis lectus maximus
+    sed. Ut vehicula metus nec nunc rhoncus, eget volutpat erat aliquet. Sed eu
+    sapien nec magna auctor pellentesque interdum a augue. Aenean arcu justo,
+    ullamcorper in quam sollicitudin, sagittis feugiat metus. Quisque quis
+    ultrices tortor, eget dignissim ipsum.
+  </div>
+  <span class="article-author">Author: John</span>
+  <span class="article-published-time">Published At: 04/07/2022</span>
 </div>
+```
+
+**Note**
+
+- ทำให้ Code มีความ Semantics ให้มากขึ้นกว่าเดิม
+
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)

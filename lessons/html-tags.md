@@ -8,8 +8,6 @@
 
 HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag ปิด `</h1>` และของที่อยู่ระหว่าง Tag คือ Content ในที่นี้จะเป็น Text "Welcome to Alcodemist"
 
-<hr>
-
 ## Playing With Tags
 
 **heading tag** - เป็น Tag ที่แสดงข้อความที่เป็นหัวข้อใหญ่ ๆ บนหน้าเว็บ
@@ -27,24 +25,40 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 
 ```html
 <p>
-  แอบมองเธอเรื่อยไปให้ไกลแค่ไหนเพียงใดก็ไม่เป็นไร
-  ฉันไม่ได้แล้วล่ะนี่คือสัญญาจากฉัน ไม่ต้องไปอยู่เพลงๆมิ้งมุ้งมิ้งเป็นใครชอบฟัง
-  อย่าได้รับรู้เวลาที่พึ่งพิงเขียนลำพังคนนี้ช่างงดงามวิเศษแค่ไหน
-  จะสยายผมหรือว่ามัดผม เธอนะเพื่อนเราไม่นานก็โตกันไป
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet elit
+  dolor, vel consequat arcu convallis vitae. Class aptent taciti sociosqu ad
+  litora torquent per conubia nostra, per inceptos himenaeos. Class aptent
+  taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+  Donec in nisl finibus, eleifend felis a, volutpat lorem. Suspendisse
+  ullamcorper nisi vel dui faucibus luctus. Quisque ligula turpis, imperdiet eu
+  porta eu, bibendum viverra est. Curabitur posuere lectus at ultricies
+  ultrices. Nullam egestas leo sapien, eu bibendum magna viverra a. Curabitur et
+  efficitur ex. Proin tempor id mi sit amet commodo. Aliquam erat volutpat.
+  Nullam fringilla gravida dui, at bibendum sapien mattis eu. Nullam sit amet
+  mauris et ante semper fermentum. Donec bibendum accumsan odio, id viverra
+  tortor.
 </p>
 ```
-
-ขอบคุณ [bangkokipsum.app](https://bangkokipsum.app/) สำหรับข้อความ paragraph
 
 **span tag** - เป็น Tag ที่สร้างกล่องที่อยู่บรรทัดเดียวกันกับ Element ตัวอื่น ๆ
 
 ```html
 <p>
-  แอบมองเธอเรื่อยไปให้ไกลแค่ไหนเพียงใดก็ไม่เป็นไร
-  ฉันไม่ได้แล้วล่ะนี่คือสัญญาจากฉัน
-  <span>ไม่ต้องไปอยู่เพลงๆมิ้งมุ้งมิ้งเป็นใครชอบฟัง</span>
-  อย่าได้รับรู้เวลาที่พึ่งพิงเขียนลำพังคนนี้ช่างงดงามวิเศษแค่ไหน
-  จะสยายผมหรือว่ามัดผม เธอนะเพื่อนเราไม่นานก็โตกันไป
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet elit
+  dolor, vel consequat arcu convallis vitae. Class aptent taciti sociosqu ad
+  litora torquent per conubia nostra, per inceptos himenaeos.
+  <span
+    >Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
+    inceptos himenaeos.</span
+  >
+  Donec in nisl finibus, eleifend felis a, volutpat lorem. Suspendisse
+  ullamcorper nisi vel dui faucibus luctus. Quisque ligula turpis, imperdiet eu
+  porta eu, bibendum viverra est. Curabitur posuere lectus at ultricies
+  ultrices. Nullam egestas leo sapien, eu bibendum magna viverra a. Curabitur et
+  efficitur ex. Proin tempor id mi sit amet commodo. Aliquam erat volutpat.
+  Nullam fringilla gravida dui, at bibendum sapien mattis eu. Nullam sit amet
+  mauris et ante semper fermentum. Donec bibendum accumsan odio, id viverra
+  tortor.
 </p>
 ```
 
@@ -82,14 +96,12 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 
 ```html
 <div>
-  <div>Post: Coding is easy 😻</div>
+  <div>Post: Coding is fun 😻</div>
   <div>
-    ที่เธอยิ่งไกลห่างไปสู่ดินแดนแสนวิเศษกายและคว้าให้ลืม
-    ยังอยู่ตรงนี้และหวังดีที่สุดก็เต้นไปในความฝันให้เธอ
-    จังหวะเพลงปลุกเร้าชีวิตข้างหน้าอยู่ในใจ
-    จะลองไขว่และอยู่ในใจแล้วสิเออลิ้นเราต้องแก้ไข
-    ก็เพื่อต้องสายแน่เลยไปอย่างนั้น
-    ถ้าหัวใจบอกในใจให้เธอเสนอก็เร็วไปเลยทำอะไรกัน สู่ความสุขและดูเซ็กซี่ไม่ช้า
+    Etiam ut massa a lorem aliquam porttitor non eu erat. Praesent finibus
+    laoreet pellentesque. Fusce eu erat odio. Nulla quis ligula ut mauris
+    molestie interdum. Suspendisse dolor sem, hendrerit et mi ut, mattis
+    placerat tortor.
   </div>
 </div>
 ```
@@ -141,29 +153,25 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 </table>
 ```
 
-<hr>
-
 ## In Class Exercises
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
-**Figma:**  
+**Figma:**
 
-**Note** 
+**Note**
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
 
-<hr>
-
 ## Take Home Exercises
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
-**Figma:** 
+**Figma:**
 
-**Note** 
+**Note**
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
 

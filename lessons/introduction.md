@@ -9,7 +9,7 @@ Hi, My name is Napat, Knot. I am Senior Full stack developer. I have been workin
 - [FB](https://www.facebook.com/knotnapat.37)
 - [Twitter](https://twitter.com/knotnapat_)
 
-<br><hr><br>
+<br><br>
 
 ## Welcome to Introduction to HTML
 
@@ -17,7 +17,7 @@ Hi, My name is Napat, Knot. I am Senior Full stack developer. I have been workin
 
 **Code คือ Set ของคำสั่ง** ที่ทำให้เราสามารถคุยกับ Computer ได้ เพื่อให้ Computer ช่วยทำอะไรสักอย่างหนึ่งให้กับเรา
 
-<br><hr><br>
+<br><br>
 
 ให้ทุกคนเข้าไปที่ [Link นี้](https://www.menti.com/v14i9jnknj)
 
@@ -25,7 +25,7 @@ Hi, My name is Napat, Knot. I am Senior Full stack developer. I have been workin
 
 ![What did you see ?](./images/what-you-see-qr.png)
 
-<br><hr><br>
+<br><br>
 
 <div style="display: flex; justify-content: space-between;">
   <a href="#"><< ไปก่อนหน้า</a>

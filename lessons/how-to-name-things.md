@@ -48,20 +48,14 @@
 </div>
 ```
 
-<hr>
-
 ## In Class Exercises
 
 ให้เปิด [Shopee](https://shopee.co.th/) ขึ้นมาแล้วให้ลองเรียกชื่อสิ่งต่าง ๆ ที่เห็น บน Web
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
 
-<hr>
-
 ## Take Home Exercises
 
 ให้เปิด [Twitter](https://twitter.com) ขึ้นมาแล้วให้ลองเรียกชื่อสิ่งต่าง ๆ ที่เห็น บน Web
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
-
-<hr>
