@@ -78,7 +78,8 @@
           molestie interdum. Suspendisse dolor sem, hendrerit et mi ut, mattis
           placerat tortor.
         </div>
-        <span class="promotion-time">08:00:00 Hours Left !</span>
+        <span class="promotion-time">08:00:00</span
+        ><span class="promotion-time-unit">Hours Left !</span>
       </div>
     </div>
     <div class="footer-section">© 2021 ABC</div>
@@ -111,7 +112,13 @@
     ultrices tortor, eget dignissim ipsum.
   </div>
   <span class="article-author">Author: John</span>
-  <span class="article-published-time">Published At: 04/07/2022</span>
+  <span class="article-published-time"
+    >Published At:
+    <span class="article-published-time-text"
+      >Tuesday, 31 October 2020</span
+    ></span
+  >
+  <time datetime="2020-10-31T11:21:00+00:00">Tuesday, 31 October 2020</time>
 </div>
 ```
 
