@@ -41,7 +41,7 @@
 
 [Reference](https://www.boia.org/blog/how-to-create-accessible-content-and-designs-for-people-with-dyslexia)
 
-## In Class Exercises 🏅
+## In Class Exercises - 05 🏅
 
 ให้ Refactor Code HTML ออกมาโดยใช้ Tags ได้อย่างเหมาะสม
 
@@ -92,7 +92,7 @@
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
 
-## Take Home Exercises 🏅
+## Take Home Exercises - 05 🏅
 
 ให้ Refactor Code HTML ออกมาโดยใช้ Tags ได้อย่างเหมาะสม
 

@@ -31,10 +31,10 @@ Reference: [Developers Google](https://developers.google.com/web/tools/chrome-de
 
 ![Highlight Elements](./images/chrome-dev-tools-3.png)
 
-## In Class Exercises 🏅
+## In Class Exercises - 06 🏅
 
 ให้เปิด Web Shopee แล้วลองใช้ Chrome Dev Tools ในการดูรายละเอียด Elements นั้น ๆ และลองแก้ไขเบื้องต้น
 
-## Take Home Exercises 🏅
+## Take Home Exercises - 06 🏅
 
 ให้เปิด Web Twitter แล้วลองใช้ Chrome Dev Tools ในการดูรายละเอียด Elements นั้น ๆ และลองแก้ไขเบื้องต้น

@@ -153,7 +153,7 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 </table>
 ```
 
-## In Class Exercises - 01
+## In Class Exercises - 01 🏅
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
@@ -165,7 +165,7 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 
 [Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex01-inclass-answer.html)
 
-## Take Home Exercises - 01
+## Take Home Exercises - 01 🏅
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
