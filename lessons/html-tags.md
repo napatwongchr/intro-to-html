@@ -153,26 +153,26 @@ HTML จะประกอบด้วย Tag เปิด `<h1>` และ Tag 
 </table>
 ```
 
-## In Class Exercises
+## In Class Exercises - 01
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
-**Figma:**
+[Figma](https://www.figma.com/file/gNPG0ztU0rzOf816Tedb5m/Alcodemist-fullstack-js-courses?node-id=6%3A1726)
 
 **Note**
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
 
-[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex01-inclass-answer.html)
 
-## Take Home Exercises
+## Take Home Exercises - 01
 
 ให้เขียน HTML Elements ให้ได้ตาม User Interface
 
-**Figma:**
+[Figma](https://www.figma.com/file/gNPG0ztU0rzOf816Tedb5m/Alcodemist-fullstack-js-courses?node-id=3%3A5086)
 
 **Note**
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
 
-[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex01-takehome-answer.html)
