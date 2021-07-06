@@ -91,7 +91,7 @@
 
 - ทำให้ Code มีความ Semantics ให้มากขึ้นกว่าเดิม
 
-[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex05-inclass-answer.html)
 
 ## Take Home Exercises - 05 🏅
 
@@ -126,4 +126,4 @@
 
 - ทำให้ Code มีความ Semantics ให้มากขึ้นกว่าเดิม
 
-[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex05-takehome-answer.html)

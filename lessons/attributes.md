@@ -65,4 +65,4 @@ Input tags ต่าง ๆ ที่เรียนไป จะมี **type**
 
 เขียน Tags ให้ครบ โดยที่ยังไม่ต้องสนในการจัดวาง และหน้าตาของ
 
-[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/html-exercises-1.md)
+[Answer](https://github.com/napatwongchr/intro-to-html/blob/main/exercises/ex02-inclass-answer.html)

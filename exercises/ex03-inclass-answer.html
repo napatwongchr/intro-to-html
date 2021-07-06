@@ -6,5 +6,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Ex03 In Class Answer</title>
   </head>
-  <body></body>
+  <body>
+    <form class="student-registration-form">
+      <h1>Alcodemist School Registration</h1>
+
+      <div class="student-firstname-field-container">
+        <label for="student-firstname-field">ชื่อ</label>
+        <input id="student-firstname-field" type="text" />
+      </div>
+
+      <div class="student-surname-field-container">
+        <label for="student-surname-field">นามสกุล</label>
+        <input id="student-surname-field" type="text" />
+      </div>
+
+      <div class="student-age-field-container">
+        <label for="student-age-field">อายุ</label>
+        <input id="student-age-field" type="number" />
+      </div>
+
+      <div class="student-birthdate-field-container">
+        <label for="student-birthdate-field">วัน เดือน ปีเกิด</label>
+        <input id="student-birthdate-field" type="datetime-local" />
+      </div>
+
+      <div class="student-favorite-color-field-container">
+        <label class="student-favorite-color-field">สีที่ชอบ</label>
+        <input id="student-favorite-color-field" type="color" />
+      </div>
+
+      <div class="student-sex-field-container">
+        <p>เพศ</p>
+        <input type="radio" id="male" name="gender" />
+        <label for="male">ชาย</label>
+        <input type="radio" id="female" name="gender" />
+        <label for="female">หญิง</label>
+        <input type="radio" id="alternative" name="gender" />
+        <label for="alternative">ทางเลือก</label>
+      </div>
+
+      <div class="student-avatar-field-container">
+        <label for="student-avatar-field">รูปประจำตัว</label>
+        <input type="file" id="student-avatar-field" />
+      </div>
+
+      <div class="student-motto-field-container">
+        <label for="student-motto-field">คติประจำใจ</label>
+        <textarea id="student-motto-field" rows="10"></textarea>
+      </div>
+
+      <button>Submit</button>
+    </form>
+  </body>
 </html>
